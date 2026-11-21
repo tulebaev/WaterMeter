@@ -1,0 +1,4 @@
+*.pyc
+
+final_models/*.pt
+final_models/*.pth
